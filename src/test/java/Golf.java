@@ -18,5 +18,5 @@ public class Golf
         }
 
         return puntuacion;
-    }//hola xD
+    }
 }
