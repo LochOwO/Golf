@@ -1,3 +1,4 @@
+//Hola soy Jime :)
 public class Golf
 {
     private int[] hoyo = new int[18];
