@@ -16,7 +16,7 @@ public class GolfTest
     @Test
     public void test() throws Exception
     {
-        golf.hoyo(1);//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        golf.hoyo(1);
         golf.hoyo(2);
         assertEquals(3, golf.puntuacion());
     }
@@ -31,6 +31,5 @@ public class GolfTest
 
         assertEquals(18, golf.puntuacion());
     }
-    //hola
 }
 
