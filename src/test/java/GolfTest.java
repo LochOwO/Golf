@@ -21,7 +21,6 @@ public class GolfTest
         assertEquals(3, golf.puntuacion());
     }
 
-
     @Test
     public void testJuegoPerfecto() throws Exception
     {
